@@ -1,2 +1,2 @@
 # Results Access
-Results 
+Results can be obtained from the following public repository: XXX
